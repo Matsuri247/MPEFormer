@@ -1,2 +1,3 @@
 # MPEFormer
-The code implementation of paper "Mosaic Pattern Excavation Transformer for Spectral Imaging" .
+The code will be available soon as the paper is published.
+
