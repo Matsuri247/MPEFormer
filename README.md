@@ -1,5 +1,5 @@
 # Mosaic Pattern Excavation Transformer for Spectral Imaging
-The code implementation of paper "Multi-stage Spatial-Spectral Fusion Network for Spectral Super-Resolution". The code will be available soon as the paper is published.
+The code implementation of paper "Mosaic Pattern Excavation Transformer for Spectral Imaging". The code will be available soon as the paper is published.
 
 # Environment
 ```
