@@ -2,6 +2,7 @@
 The code implementation of paper "Multi-stage Spatial-Spectral Fusion Network for Spectral Super-Resolution". The code will be available soon as the paper is published.
 
 # Environment
+```
 Python=3.9.19
 opencv-python==4.9.0.80
 einops
@@ -13,6 +14,7 @@ h5py
 hdf5storage
 tqdm
 torchinfo
+```
 
 # Data Preparation
 You can find ARAD dataset and Chikusei dataset from ([here](https://github.com/bowenzhao-zju/PPIE-SSARN)). Make sure you place the dataset as the following form:
