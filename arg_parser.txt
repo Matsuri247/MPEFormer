@@ -1,0 +1,7 @@
+【train_experiment.py】
+--method MPEFormer --msfa_size 4 --dataset ARAD --batch_size 16 --end_epoch 4000 --init_lr 4e-4 --outf ./train_exp/MPEFormer/ --train_dir ./dataset/ARAD/train/ --test_dir ./dataset/ARAD/test/
+--method MPEFormer --msfa_size 4 --dataset Chikusei --batch_size 16 --end_epoch 4000 --init_lr 4e-4 --outf ./train_exp/MPEFormer/ --train_dir ./dataset/Chikusei/train/ --test_dir ./dataset/Chikusei/test/
+
+【test_experiment.py】
+--method MPEFormer --msfa_size 4 --dataset ARAD --pretrained_model_path ./model_pth/MPEFormer/ARAD/MPEFormer_ARAD.pth --test_dir ./dataset/ARAD/test/ --outf ./test_exp/MPEFormer/
+--method MPEFormer --msfa_size 4 --dataset Chikusei --pretrained_model_path ./model_pth/MPEFormer/Chikusei/MPEFormer_Chikusei.pth --test_dir ./dataset/Chikusei/test/ --outf ./test_exp/MPEFormer/
