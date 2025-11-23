@@ -59,3 +59,17 @@ You can find ARAD dataset and Chikusei dataset from ([here](https://github.com/b
 --method MPEFormer --msfa_size 4 --dataset Chikusei --pretrained_model_path ./model_pth/MPEFormer/Chikusei/MPEFormer_Chikusei.pth --test_dir ./dataset/Chikusei/test/ --outf ./test_exp/MPEFormer/
 ```
 
+# Citation
+If you find this repo useful, please consider citing our works.
+```
+@ARTICLE{MPEFormer,
+  author={Wu, Yaohang and Liu, Jinyang and Dian, Renwei and Li, Shutao and Yang, Yining},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Mosaic Pattern Excavation Transformer for Spectral Imaging}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Deep learning;spectral imaging;multispectral filter array;attention mechanism},
+  doi={10.1109/TIP.2025.3633159}}
+```
