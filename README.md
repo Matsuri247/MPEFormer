@@ -1,7 +1,5 @@
 # Mosaic Pattern Excavation Transformer for Spectral Imaging
-The code implementation of paper "Mosaic Pattern Excavation Transformer for Spectral Imaging". The code will be available soon as the paper is published.
-
-# Environment
+The code implementation of paper "Mosaic Pattern Excavation Transformer for Spectral Imaging".
 ```
 Python=3.9.19
 opencv-python==4.9.0.80
